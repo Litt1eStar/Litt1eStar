@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litt1estar&label=Profile%20views&color=0e75b6&style=flat" alt="litt1estar" /> </p>
 
-- 🔭 I’m currently working on **Nanosmith**
-
-- 🌱 I’m currently learning **Game Developing, .NET**
-
-- 💬 Ask me about **Game Developing**
+- 🌱 I’m currently learning **Game Development, Website Developement**
 
 - 📫 How to reach me **devkritt@gmail.com**
 
