@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Woody</h1>
-<h3 align="center">Indie Game Developer from Thailand</h3>
+<h3 align="center">Capybar Lover from Tàiguó</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litt1estar&label=Profile%20views&color=0e75b6&style=flat" alt="litt1estar" /> </p>
 
