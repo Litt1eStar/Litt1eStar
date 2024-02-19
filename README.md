@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litt1estar&label=Profile%20views&color=0e75b6&style=flat" alt="litt1estar" /> </p>
 
-- 🌱 I’m currently learning **Game Development, Website Developement**
+- 🌱 I’m Interested in **Game Development, Backend Developement**
 
 - 📫 How to reach me **devkritt@gmail.com**
 
