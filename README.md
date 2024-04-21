@@ -1,5 +1,5 @@
 #  About Me:
-🦧My True Passion in career is Backend Development and Networking Engineering<br>Enjoy to go Cycling in every morning<br>My sweet dream is be an owner of cafe that have capybara and hedgehog 🦔
+🦧My True Passion in career is Backend Development and Networking Engineering<br>My sweet dream is be an owner of cafe that have capybara and hedgehog 🦔
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Litt1eStar&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Litt1eStar&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
